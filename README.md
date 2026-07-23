@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Olá, eu sou o Marcelo
+💻 Estudante de Programação | Proz Educação
 
-<!--
-**Couto-10/Couto-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou cursando programação pela Proz, evoluindo dia a dia na jornada de desenvolvimento de software, com foco especial em desenvolvimento de jogos.
 
-Here are some ideas to get you started:
+🎓 Sobre mim
+🧠 Estudante de programação, sempre buscando aprender e evoluir
+🎮 Apaixonado por desenvolvimento de jogos (Python e Java)
+🎨 Gosto de unir programação com narrativa, lore e worldbuilding
+🚀 Gosto criar projetos inspirados em animes/mangás e universos que conheço bem
+🛠️ Em constante aprendizado de boas práticas, lógica de programação e novas tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Formação
+
+Proz Educação — Curso de Programação
+📍 Em andamento
+
+Focado em construir uma base sólida em lógica de programação, orientação a objetos e desenvolvimento de aplicações, com projetos práticos que aplicam o conteúdo estudado em soluções reais.
+
+📈 Objetivos
+ Aprofundar conhecimentos em estruturas de dados e algoritmos
+ Aprender um framework de front-end (React ou similar)
+ Evoluir os projetos de jogos com novas mecânicas e polimento visual
+ Construir um portfólio sólido de projetos práticos
