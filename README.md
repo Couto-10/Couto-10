@@ -33,7 +33,8 @@ Estou cursando programação pela Proz Educação, evoluindo dia a dia na jornad
 
 ## 🏆 Principais Projetos
 
-###🖥️ [PC BUILDER](https://couto-10.github.io/PCBuilder/)
+###🖥️ [PC BUILDER](https://couto-10.github.io/PCBuilder)
+
 Projeto desenvolvido para uma competição de desenvolvimento web realizada pela PROZ, com o objetivo de aplicar conhecimentos de HTML, CSS e JavaScript na criação de uma aplicação web interativa.
 O PC Builder tem como proposta ajudar pessoas iniciantes a escolher os componentes para montar seu primeiro computador, considerando a compatibilidade entre as peças e o orçamento disponível.
 
